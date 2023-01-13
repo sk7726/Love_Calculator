@@ -1,7 +1,13 @@
-*{
+* {
     margin: 0;
     padding: 0;
-    background-color: aqua;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: pink;
+     height: 100vh;
+     background-size: cover;
 }
 
 .main-div{
